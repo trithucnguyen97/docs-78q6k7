@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-uvlyr1.plcwin.xyz/sitemap.xml
